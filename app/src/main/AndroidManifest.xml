@@ -13,10 +13,10 @@
         android:theme="@style/Theme.My_Application"
         tools:targetApi="31">
         <activity
-            android:name=".BaseActivity"
+            android:name=".Activity.BaseActivity"
             android:exported="false" />
         <activity
-            android:name=".IntroActivity1"
+            android:name=".Activity.IntroActivity1"
             android:exported="true"
             android:label="@string/app_name">
             <intent-filter>

@@ -1,4 +1,4 @@
-package com.example.my_application
+package com.example.my_application.Activity
 
 import android.os.Bundle
 import android.view.WindowManager
